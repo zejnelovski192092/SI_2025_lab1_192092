@@ -1,0 +1,11 @@
+* 32f827b (origin/9-mark-all-tasks-in-a-category-as-completed, 9-mark-all-tasks-in-a-category-as-completed) Implement markCategoryCompleted method
+| * c63a623 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Implement method to count tasks per category
+|/
+| *   9d824c4 (refs/stash) WIP on 1-remove-a-task-by-name: 541ea8b Implement removeTask method to remove task by name
+| |\
+| | * 9a7ef49 index on 1-remove-a-task-by-name: 541ea8b Implement removeTask method to remove task by name
+| |/
+| * 541ea8b (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implement removeTask method to remove task by name
+|/
+* 39059da (HEAD -> master, origin/master, origin/HEAD) Add starter code
+* 3c0839b Inital commit
